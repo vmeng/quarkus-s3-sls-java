@@ -110,3 +110,7 @@ Or, build as native executable
 And then run it
 
 `./target/amazon-s3-quickstart-1.0-SNAPSHOT-runner -Dbucket.name=quarkus.s3.12.345.99` 
+
+
+
+Policies: [AWSLambdaBasicExecutionRole,AmazonS3FullAccess]
