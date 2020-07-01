@@ -1,0 +1,6 @@
+{
+  "queryStringParameters": {
+    "fileName": "abc.png",
+    "signMethod": "put"
+  }
+}
